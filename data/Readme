@@ -2,5 +2,6 @@ This library include:
 1. Data files used in the analysis (csv and exel files)
 2. The original localities files, including the codebooks (files with "original" in the name)
 3. Geographic files that can be used to create maps of Israel - each map is based on 6 files with the same name that ends with shp, dbf, prj and so on. If you are into creating maps search google for "shape files" to understand more.
+4. Life tables from https://www.mortality.org/ that are used in order to calculate gini coefficients for life expectancy
 
 This library does not include the social survey and the long-term survey data files that were used in the analysis. They are not publicly available, you need to buy them from the LAMAS.

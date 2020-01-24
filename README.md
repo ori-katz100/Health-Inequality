@@ -15,8 +15,8 @@ This library includes the followings:
 3. Do-files (STATA) that incluedes all the regressions. 
 
 What can you do with the materials of this project library, besides reproducing my resluts?
-1. Draw maps of Israel according to different dimensions. I have shape files and you can see the relevant code in the notebook.
-2. Calculate life expectancy gini coefficients to other countries / time periods.
-3. Use the code for other projects, for example to find out who are the Israelis who do not vaccinate their children (see basic analysis in one of the tree charts), or what are the causes of cancer level in different localities (probably something not related to my main variables but to something else). You can also use variables I didn't use, like different types of cancer. 
+1. Draw maps of Israel according to different dimensions. The data folder includes shape files and you can see the relevant code in the notebook.
+2. Calculate life expectancy gini coefficients for other countries / time periods.
+3. Use the code for other projects, for example to find out who are the Israelis who do not vaccinate their children (see basic analysis in one of the tree charts), or what are the causes of cancer level in different localities (probably something not related to my main variables). You can also use variables I didn't use, like different types of cancer. 
 
 

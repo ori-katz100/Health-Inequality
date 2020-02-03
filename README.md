@@ -11,8 +11,8 @@ You can download the latest version of the full paper <a href= "https://orikatz.
 
 This library includes the followings:
 1. Data folder - all relevant public data files. Some of the data files used in this project are not publicly available, see details in the Readme file inside the data folder.
-2. Health inequality - A Python notebook that includes all the charts, maps and tree-charts of the paper. 
-3. Do files folder - do-files (scripts of STATA) that incluedes all the regressions. 
+2. Health inequality - A Python notebook that include all the charts, maps and tree-charts of the paper. 
+3. Do files folder - do-files (scripts of STATA) that include all the regressions. 
 
 What can you do with the materials of this project library, besides reproducing my resluts?
 1. Draw maps of Israel according to different dimensions. The data folder includes shape files and you can see the relevant Python code in the notebook.

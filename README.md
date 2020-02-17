@@ -7,12 +7,11 @@ Main findings:
 2. Inequality in life expectancy is relatively low in Israel and decreased during the past decades (surprising, I am the first one who shows data about inequality in life expectancy).
 3. The main factors that determine health are socioeconomic factors, such as income, education and ethnic group, and not geographic factors (it was a surprise to people in the Ministry of Health and many others, that think that the main problem is the level of health services in the peripheral regions of Israel, and not things harder to control like behavioral factors). 
 
-You can download the latest version of the full paper <a href= "https://orikatz.files.wordpress.com/2020/01/health-inequality.pdf">here</a>.
-
 This library includes the followings:
 1. Data folder - all relevant public data files. Some of the data files used in this project are not publicly available, see details in the Readme file inside the data folder.
-2. Health inequality - A Python notebook that include all the charts, maps and tree-charts of the paper. 
-3. Do files folder - do-files (scripts of STATA) that include all the regressions. 
+2. Do files folder - do-files (scripts of STATA) that include all the regressions. 
+3. Health inequality p - A Python notebook that include all the charts, maps and tree-charts of the paper. 
+4. Health inequality - The latest version of the research paper. 
 
 What can you do with the materials of this project library, besides reproducing my resluts?
 1. Draw maps of Israel according to different dimensions. The data folder includes shape files and you can see the relevant Python code in the notebook.

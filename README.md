@@ -10,7 +10,7 @@ Main findings:
 This library includes the followings:
 1. Data folder - all relevant public data files. Some of the data files used in this project are not publicly available, see details in the Readme file inside the data folder.
 2. Do files folder - do-files (scripts of STATA) that include all the regressions. 
-3. Health inequality p - A Python notebook that include all the charts, maps and tree-charts of the paper. 
+3. Health inequality plots - A Python notebook that include all the charts, maps and tree-charts of the paper. 
 4. Health inequality - The latest version of the research paper. 
 
 What can you do with the materials of this project library, besides reproducing my resluts?
